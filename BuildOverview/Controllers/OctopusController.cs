@@ -52,7 +52,7 @@ namespace BuildOverview.Controllers
 
         public void GetEnvironmentData(List<EnvironmentResource> er)
         {
-            er.
+            
         }
 
         public void GetProjectData(List<ProjectResource> projectResources)
