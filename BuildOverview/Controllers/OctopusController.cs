@@ -59,8 +59,8 @@ namespace BuildOverview.Controllers
         {
            foreach (ProjectResource project in projectResources)
             {
-                project.Name;
-                project.ProjectConnectivityPolicy.TargetRoles;
+                //project.Name;
+                //project.ProjectConnectivityPolicy.TargetRoles;
                
             }
         }
